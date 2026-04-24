@@ -27,6 +27,11 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" \n />
   <img width="5" />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
