@@ -1,62 +1,36 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Vinícius Fernandes</h1>
+<h3 align="center">Desenvolvedor Full-Stack | Engenharia & Produto</h3>
 
-###
+<p align="center">
+  <i>Construindo soluções escaláveis e traduzindo problemas de negócio em código eficiente.</i>
+</p>
 
-<p align="center">💻 Developer Full-Stack<br>🎯 Passionate by Technology, Games and Coffe</p>
+---
 
-###
+## 🎯 Sobre o meu perfil
+Acredito no desenvolvimento **end-to-end**. Minha experiência combina o rigor técnico da construção de sistemas com a visão estratégica adquirida ao fundar e liderar uma startup premiada (CriticLevel). 
 
-<div align="center">
-  <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh4eWpwd2x3Z25wcjh0aXJwemliZHl6cTJ5dThhN3Q5cWw1czN1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"  />
-</div>
+* **Otimização & Infraestrutura:** Atuei reduzindo ~30% o tempo de setup de ambientes utilizando Docker e padronização de conteinerização.
+* **Arquitetura Cloud:** Experiência real com provisionamento e migrações On-Premise para Azure IaaS, focando em alta disponibilidade e separação de camadas.
+* **Foco Atual:** Expandindo meu portfólio de mobilidade com **React Native e ecossistema Expo** (desenvolvendo um app avançado de agendamento de serviços) e arquitetando sistemas de controle de acesso físico integrando software a leitores de QR Code/RFID.
 
-###
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" \n />
-  <img width="5" />
-    <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="50" alt="trello logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-</div>
+## 💻 Stack Tecnológica
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/euviniciusfernandes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,py,fastapi,docker,azure,postgres,mysql,git&perline=14" alt="Minha Stack de Tecnologias" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vinifvision&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinifvision&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 📬 Conecte-se comigo
 
-###
-
-<img src="https://raw.githubusercontent.com/vinifvision/vinifvision/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <a href="mailto:viniciusflrezende1@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/euviniciusfernandes/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
