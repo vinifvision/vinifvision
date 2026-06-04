@@ -1,9 +1,5 @@
-<h1 align="center">Vinícius Fernandes</h1>
-<h3 align="center">Desenvolvedor Full-Stack | Engenharia & Produto</h3>
-
-<p align="center">
-  <i>Construindo soluções escaláveis e traduzindo problemas de negócio em código eficiente.</i>
-</p>
+# Vinícius Fernandes 👋
+### Desenvolvedor Full-Stack | Engenharia & Produto
 
 ---
 
@@ -18,7 +14,7 @@ Acredito no desenvolvimento **end-to-end**. Minha experiência combina o rigor t
 
 ## 💻 Stack Tecnológica
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,py,fastapi,docker,azure,postgres,mysql,git&perline=14" alt="Minha Stack de Tecnologias" />
   </a>
@@ -28,9 +24,7 @@ Acredito no desenvolvimento **end-to-end**. Minha experiência combina o rigor t
 
 ## 📬 Conecte-se comigo
 
-<p align="center">
-  <a href="mailto:viniciusflrezende1@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<p>
   <a href="https://www.linkedin.com/in/euviniciusfernandes/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
